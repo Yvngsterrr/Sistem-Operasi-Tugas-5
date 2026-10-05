@@ -19,7 +19,7 @@ baik write, read maupun execute, tetapi group dan others hanya bisa read dan exe
 write, read dan execute.<img width="541" height="60" alt="6" src="https://github.com/user-attachments/assets/df4817d9-1df8-43bd-93bd-5ba3e2854fa0" />
 
 7. Hapuslah direktori maret.
-   <img width="456" height="95" alt="7" src="https://github.com/user-attachments/assets/6628cad0-8af1-4ce8-9ed9-152d83d5069e" />
+<img width="456" height="95" alt="7" src="https://github.com/user-attachments/assets/6628cad0-8af1-4ce8-9ed9-152d83d5069e" />
 
 8. Ubahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat
 melakukan read, dan cobalah untuk membuat direktori baru haha pada sub direktori februari
@@ -36,7 +36,8 @@ Default Permission: 640 (rw − r − −− − −)
 for directory:
 Base: 777 (rwxrwxrwx)
 Umask: 027 (− − − − −− − − rwx)
-Default Permission: 750 (rwxr − x− − −)
+Default Permission: 750 (rwxr − x− − −)   
+
 10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah
 list perhatikan berapa link yang terjadi ?  
 <img width="570" height="275" alt="10" src="https://github.com/user-attachments/assets/8346bc52-58ea-4f1d-b14c-c2b2f8dca66b" />
