@@ -17,7 +17,15 @@ write, read dan execute.
 melakukan read, dan cobalah untuk membuat direktori baru haha pada sub direktori februari
 9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan
 nilai default-nya ?
-10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah
+for files:
+Base: 666 (rw-rw-rw-)
+Umask: 027 (− − − − −− − − rwx)
+Default Permission: 640 (rw − r − −− − −)
+for directory:
+Base: 777 (rwxrwxrwx)
+Umask: 027 (− − − − −− − − rwx)
+Default Permission: 750 (rwxr − x− − −)
+11. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah
 list perhatikan berapa link yang terjadi ?
 
 
