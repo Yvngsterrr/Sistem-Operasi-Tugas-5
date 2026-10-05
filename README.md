@@ -25,5 +25,7 @@ for directory:
 Base: 777 (rwxrwxrwx)
 Umask: 027 (− − − − −− − − rwx)
 Default Permission: 750 (rwxr − x− − −)
+10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah
+list perhatikan berapa link yang terjadi ?
 
 
