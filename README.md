@@ -18,13 +18,14 @@ baik write, read maupun execute, tetapi group dan others hanya bisa read dan exe
 6. Ubahlah ijin akses file dataku pada sub direktori maret sehingga semua dapat melakukan
 write, read dan execute.<img width="541" height="60" alt="6" src="https://github.com/user-attachments/assets/df4817d9-1df8-43bd-93bd-5ba3e2854fa0" />
 
-7. Hapuslah direktori maret.<img width="456" height="95" alt="7" src="https://github.com/user-attachments/assets/6628cad0-8af1-4ce8-9ed9-152d83d5069e" />
+7. Hapuslah direktori maret.
+<img width="456" height="95" alt="7" src="https://github.com/user-attachments/assets/6628cad0-8af1-4ce8-9ed9-152d83d5069e" />
 
-8. Ubahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat
+9. Ubahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat
 melakukan read, dan cobalah untuk membuat direktori baru haha pada sub direktori februari
 <img width="537" height="111" alt="8" src="https://github.com/user-attachments/assets/d2a5e7d0-a396-42ba-8d85-afc32c5061d0" />
 
-9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan
+10. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan
 nilai default-nya ?
 <img width="517" height="181" alt="9" src="https://github.com/user-attachments/assets/b2020fda-21d2-4cf2-a937-507e65d9dcd3" />
 
